@@ -1,3 +1,11 @@
+/*
+ * Grupo:
+	André Luiz Kovalski
+	Daniel Nowak Assis
+	Danilo Alecrim Almeida 
+ * 
+ */
+
 package application;
 
 import character.Character;
@@ -30,7 +38,7 @@ public class Main {
 				}
 
 			}
-
+			
 			System.out.println();
 		}
 	}
